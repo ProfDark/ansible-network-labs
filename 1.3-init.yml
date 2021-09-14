@@ -35,6 +35,4 @@
     ios_config:
       lines:
         - username siduser110 privilidge 15 secret cisco
-      lines:
-        - username siduserXXX privilege 15 secret password
 ...
